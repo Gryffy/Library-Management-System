@@ -62,8 +62,8 @@ LibraryManagementSystem/
 
 2. **Run the Program**
 
-```bash
-     Java Main
+  ```bash
+  Java Main
 ```
 
 ## **Developed By**
