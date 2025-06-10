@@ -50,7 +50,6 @@ LibraryManagementSystem/
 ├── users.txt # Auto-generated - stores user records
 ├── README.md
 
-`yaml`
 
 ---
 
@@ -63,7 +62,9 @@ LibraryManagementSystem/
 
 2. **Run the Program**
 
+```bash
 Java Main
+```
 
 ## **Developed By**
 
