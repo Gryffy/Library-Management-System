@@ -1,4 +1,4 @@
-##Library Management System (Java + MySQL)📚## 
+##Library Management System (Java + MySQL)## 
 <br>
 This is a simple console-based Library Management System built using Java and MySQL. It implements full CRUD (Create, Read, Update, Delete) operations using the DAO (Data Access Object) design pattern. The system allows users to add, update, delete, and list books stored in a MySQL database.
 
